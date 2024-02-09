@@ -1,0 +1,5 @@
+links:https://preview.themeforest.net/item/youplay-gaming-wordpress-theme/full_screen_preview/11959042?_ga=2.205088216.950281756.1672666562-2142615745.1672666562
+
+color:whait-#ffffff
+
+fonts:lato
